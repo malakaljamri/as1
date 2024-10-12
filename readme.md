@@ -1,7 +1,9 @@
-# CS333 Assignment 1 - Sunshine Kindergarten Class Website
+# Sunshine Kindergarten Class Website
+ITCS333 Assignment 1
+
 Done by: 
-1. Maryam Isa Alhawi   202204976
-2. Malak Abbas Aljamri   202109782 
+1. Maryam Isa Alhawi - 202204976
+2. Malak Abbas Aljamri - 202109782 
 
 ## Description
 A fun and informative single-page website for Sunshine Kindergarten. The site includes:
