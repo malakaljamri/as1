@@ -1,5 +1,5 @@
 # Sunshine Kindergarten Class Website
-ITCS333 Assignment 1
+## ITCS333 Assignment 1
 
 Done by: 
 1. Maryam Isa Alhawi - 202204976
@@ -17,6 +17,6 @@ A fun and informative single-page website for Sunshine Kindergarten. The site in
 
 Built using HTML and CSS with a colorful, responsive design.
 
-
+```
 # How to View:
-# Open index.html in your browser
+Open index.html in your browser to view the website
