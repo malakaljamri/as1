@@ -1,0 +1,142 @@
+/* General Styling */
+* {
+    margin: 0px;
+    padding: 2px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f3f3;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #fff27b;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4081;
+    font-size: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    color: #014a49;
+    font-size: 24px;
+    font-family: monospace;
+}
+
+h3 {
+    color: #014a49;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+
+nav ul li {
+    display: inline-flex;
+    font-size: 18px;
+    margin: 5px;
+    border: 1px solid black;
+    background-color: #d4e6bf;
+    font-family: monospace;
+    padding: 10px 20px;
+    /* Add some padding for a better shape */
+    border-radius: 30px;
+    /* Rounded corners for a cloud shape */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    /* Soft shadow for depth */
+    transition: background-color 0.3s, transform 0.5s;
+    /* Smooth transition for hover effect */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff4081;
+}
+
+/* Layout */
+main {
+    margin: 20px;
+    padding: 10px;
+
+}
+
+section {
+    margin: 20px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+/* Welcome Section */
+#welcome {
+    background-color: #ffdbd0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#schedule {
+    background-color: #c1d6a9;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* Resources Section */
+#resources {
+    background-color: #c7e5fd;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#teacher {
+    background-color: #d1c4e9;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+footer {
+    text-align: center;
+    background-color: #fff27b;
+    padding: 10px;
+}
+
+/* Responsive Design for Mobile and tablet */
+@media (max-width: 768px) {
+    .gallery {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 5px 0;
+    }
+}

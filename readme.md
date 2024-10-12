@@ -1,10 +1,11 @@
-# Sunshine Kindergarten Class Website 
+# CS333 Assignment 1 - Sunshine Kindergarten Class Website
+Done by: 
+1. Maryam Isa Alhawi   202204976
+2. Malak Abbas Aljamri   202109782 
 
 ## Description
-# CS333 Assignment
-A fun and informative single-page website for Sunshine Kindergarten. The site 
+A fun and informative single-page website for Sunshine Kindergarten. The site includes:
 ```bash
-includes:
 
 1. Welcome Message
 2. Weekly Schedule
@@ -15,6 +16,5 @@ includes:
 Built using HTML and CSS with a colorful, responsive design.
 
 
-#How to View:
-#Open index.html in your browser using live serve extension in vs 
-
+# How to View:
+# Open index.html in your browser
