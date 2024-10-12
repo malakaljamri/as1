@@ -18,5 +18,5 @@ A fun and informative single-page website for Sunshine Kindergarten. The site in
 Built using HTML and CSS with a colorful, responsive design.
 
 ```
-# How to View:
+## How to View:
 Open index.html in your browser to view the website
